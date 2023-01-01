@@ -1,0 +1,9 @@
+{
+  "bridge": "",
+  "user": "",
+  "dmxAddress": 1,
+  "universe": 0,
+  "colorloop": false,
+  "transition": 0,
+  "disabledLights": {}
+}
